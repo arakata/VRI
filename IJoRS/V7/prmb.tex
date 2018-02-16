@@ -1,0 +1,77 @@
+% interactcadsample.tex
+% v1.03 - January 2017
+
+\documentclass[]{interact}
+
+\usepackage{epstopdf}% To incorporate .eps illustrations using PDFLaTeX, etc.
+\usepackage{subfigure}% Support for small, `sub' figures and tables
+%\usepackage[nolists,tablesfirst]{endfloat}% To `separate' figures and tables from text if required
+\usepackage[numbers]{natbib}% Citation support using natbib.sty
+%%% ============================================================================================================= %%%
+%%%                                  The lastest updated date: March, 2009                                    %%%
+%%% ============================================================================================================= %%%
+%%% Update Log: 11/16/2004, add the \RomanNumber and \romannumber for capital and small Roman numbers
+%%%                         add \rb for table raising box
+%%% Update Log: 05/08/2004, add the matlab and simulink definition in the end for reference
+%%% Update Log: 04/26/2004, add the math operator ``dist'', update the definition for theorem-like enviroments
+%%% Update Log: 03/04/2004, use package 'upgreek' for constants, e.g., $\uppi$ = 3.1415926.... (ISO standard)
+%%% Update Log: 09/12/2004, update for solving the conflicts between amsthm and cssconf
+%%% Update Log: 05/03/2009, merging with Luis' abbreviation setting
+%%% Update Log: 01/20/2010, adding H option for floating figures
+%%% ============================================================================================================= %%%
+
+\usepackage{latexsym, amssymb, amsmath}
+%\usepackage[dvips]{graphicx} % added for inserting the pictures
+
+%%%%%%%%%%%%%%%%
+\usepackage{float}      %these two packages are for fixing figures in place
+\restylefloat{figure}
+%%%%%%%%%%%%%%%%
+
+\usepackage{graphicx,dsfont}
+\usepackage{mathrsfs}  % package for math fonts: mathscripts \mathscr
+\usepackage{color} % standard color package
+\usepackage[latin1]{inputenc}
+\usepackage{enumerate}
+\usepackage{flushend} % align at the last lines of every page
+\usepackage{stfloats}
+\usepackage{balance}
+\usepackage{tabularx}
+\usepackage{bm}
+
+%%% Added by LADE
+
+%\usepackage{algorithm}
+%\usepackage[noend]{algpseudocode}
+\usepackage[linesnumbered,ruled]{algorithm2e}
+\usepackage{algcompatible}
+%\makeatletter
+%\def\BState{\State\hskip-\ALG@thistlm}
+%\makeatother
+
+
+%%%
+
+\bibpunct[, ]{(}{)}{;}{a}{}{,}% Citation support using natbib.sty
+\renewcommand\bibfont{\fontsize{10}{12}\selectfont}% Bibliography support using natbib.sty
+
+\theoremstyle{plain}% Theorem-like structures provided by amsthm.sty
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{algo}{Algorithm}[section]
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+
+\theoremstyle{remark}
+\newtheorem{remark}{Remark}
+\newtheorem{notation}{Notation}
+
+\def\begce{\begin{center}}
+\def\endce{\end{center}}
+
+\definecolor{colorLADE}{rgb}{1, 0.5, 0}
+\def\bluetext#1{\textcolor[rgb]{1.00,0.00,0.00}{#1}}

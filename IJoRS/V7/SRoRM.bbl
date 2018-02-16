@@ -1,0 +1,236 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citename{Aceituno \& Montecinos,
+  }1993]{Aceituno-Montecinos_93}
+Aceituno, P., \& Montecinos, A. 1993.
+\newblock Circulation anomalies associated with dry and wet periods in the
+  South American Altiplano.
+\newblock {\em Am. Meteor. Soc.},  330--331.
+
+\bibitem[\protect\citename{{Cressie~N.}, }1991]{Cressie_91}
+{Cressie~N.} 1991.
+\newblock {\em Statistics for Spatial Data}.
+\newblock Wiley-Interscience.
+
+\bibitem[\protect\citename{Duffaut~Espinosa {\em et~al.\ }\relax,
+  }2017]{Duffaut-et-al_2017}
+Duffaut~Espinosa, L.~A., Posadas, A., Carbajal, M., \& Quiroz, R. 2017.
+\newblock Multifractal downscaling of rainfall using normalized difference
+  vegetation index (NDVI) in the Andes plateau.
+\newblock {\em PLOSONE}, {\bf 12}(1), 1--25.
+
+\bibitem[\protect\citename{Foufoula-Georgiou \& Kumar, }1994]{fofu}
+Foufoula-Georgiou, E., \& Kumar, P. 1994.
+\newblock {\em Wavelets in Geophysics}.
+\newblock Editorial Academic Press Inc.
+
+\bibitem[\protect\citename{Garreaud {\em et~al.\ }\relax,
+  }2003]{Garreaud-et-al_2003}
+Garreaud, R., Vuille, M., \& Clement, A. 2003.
+\newblock The climate of the Altiplano: Observed current conditions and
+  mechanisms of past changes.
+\newblock {\em Palaeogeogr. Palaeoclimatol. Palaeoecol.}, {\bf 194}, 5--22.
+
+\bibitem[\protect\citename{Goovaerts, }1997]{Goovaerts_97}
+Goovaerts, P. 1997.
+\newblock {\em Geostatistics for Natural Resources Evaluation}.
+\newblock Oxford University Press.
+
+\bibitem[\protect\citename{Hartkamp {\em et~al.\ }\relax,
+  }1999]{Hartkamp-et-al_99}
+Hartkamp, A.D., De~Beurs, K., Stein, A., \& White, J.W. 1999.
+\newblock {\em Interpolation techniques for climate variables}.
+
+\bibitem[\protect\citename{Heidinger {\em et~al.\ }\relax,
+  }2012]{Heidinger-et-al_2012}
+Heidinger, H., Yarlequ\'e, C., Posadas, A., \& Quiroz, R. 2012.
+\newblock TRMM rainfall correction over the Andean Plateau using wavelet
+  multi-resolution analysis.
+\newblock {\em International Journal of Remote Sensing}, {\bf 33}(14),
+  4583--4602.
+
+\bibitem[\protect\citename{Hijmans {\em et~al.\ }\relax,
+  }2005]{Hijmans-et-al_2005}
+Hijmans, R.J., Cameron, S.E., Parra, J.L., Jones, P.G., \& Jarvis, A. 2005.
+\newblock Very high resolution interpolated climate surfaces for global land
+  areas.
+\newblock {\em International Journal of Climatology}, {\bf 25}(15), 1965--1978.
+
+\bibitem[\protect\citename{Hutchinson, }1995]{Hutchinson_95}
+Hutchinson, M.~F. 1995.
+\newblock Interpolating mean rainfall using thin plate smoothing splines.
+\newblock {\em International Journal of Geographic Information Systems}, {\bf
+  9}, 305--403.
+
+\bibitem[\protect\citename{Hutchinson, }2006]{Hutchinson_2006}
+Hutchinson, M.~F. 2006.
+\newblock {\em {Centre for Resource and Environmental Studies}}.
+\newblock Australian National University.
+
+\bibitem[\protect\citename{Hwang \& Graham, }2013]{Hwang-Graham_2013}
+Hwang, S., \& Graham, W.~D. 2013.
+\newblock Development and comparative evaluation of a stochastic analog method
+  to downscale daily GCM precipitation.
+\newblock {\em Hydrology and Earth Systems Science}, {\bf 17}, 4481--4502.
+
+\bibitem[\protect\citename{Immerzeel {\em et~al.\ }\relax,
+  }2005]{Immerzeel-et-al_2005}
+Immerzeel, W.~W., Quiroz, R.~A., \& De~Jong, S.~M. 2005.
+\newblock Understanding precipitation patterns and land use interaction in
+  Tibet using harmonic analysis of SPOT VGT-S10 NDVI time series.
+\newblock {\em International Journal of Remote Sensing}, {\bf 26}(11),
+  2281--2296.
+
+\bibitem[\protect\citename{Isaaks \& Srivastava, }1989]{Isaaks-Srivastava_89}
+Isaaks, E.~H., \& Srivastava, R.~M. 1989.
+\newblock {\em An Introduction to Applied Geostatistics}.
+\newblock Oxford University Press.
+
+\bibitem[\protect\citename{IWMI, }2017]{IWMI}
+IWMI. 2017.
+\newblock {\em International water management institute}.
+
+\bibitem[\protect\citename{Jarvis \& Stuart, }2001]{Jarvis-Stuart_2001}
+Jarvis, C.~H., \& Stuart, N. 2001.
+\newblock A Comparison among Strategies for Interpolating Maximum and Minimum
+  Daily Air Temperatures. Part II: The Interaction between Number of Guiding
+  Variables and the Type of Interpolation Method.
+\newblock {\em Journal of Applied Meteorology}, {\bf 40}(6), 1075--1084.
+
+\bibitem[\protect\citename{Kedem \& Long, }1987]{Kedem-Long_87}
+Kedem, B., \& Long, C. 1987.
+\newblock On the lognormality of rain rate.
+\newblock {\em Proc. Natl. Acad. Sci. USA}, {\bf 84}, 901--905.
+
+\bibitem[\protect\citename{Lin, }1978]{Lin_78}
+Lin, S.~H. 1978.
+\newblock More on rain rate distributions and extreme value statistics.
+\newblock {\em The Bell Systems Technical Journal}, {\bf 57}(5), 1545--1568.
+
+\bibitem[\protect\citename{Lloyd-Hugues \& Saunders, }2002]{lloyd}
+Lloyd-Hugues, B., \& Saunders, M.A. 2002.
+\newblock A drought climatology for Europe.
+\newblock {\em Journal of International Climatology}, {\bf 22}(13).
+
+\bibitem[\protect\citename{Lovejoy \& Schertzer, }2013]{Lovejoy-Schertzer_2013}
+Lovejoy, S., \& Schertzer, D. 2013.
+\newblock {\em The Weather and Climate: Emergent Laws and Multifractal
+  Cascades}.
+\newblock Cambridge University Press.
+
+\bibitem[\protect\citename{Mallat, }1989]{Mallat_89}
+Mallat, S. 1989.
+\newblock A theory of multiresolution signal decomposition: the wavelet
+  representation.
+\newblock {\em EEE Transactions on Pattern Analysis and Machine Intelligence},
+  {\bf 1}(11), 674--693.
+
+\bibitem[\protect\citename{Mallat, }1998]{mallat98}
+Mallat, S. 1998.
+\newblock {\em A wavelet Tour of Signal Processing}.
+\newblock Academic Press.
+
+\bibitem[\protect\citename{Martiny {\em et~al.\ }\relax,
+  }2006]{Martiny-et-al_2006}
+Martiny, N., Camberlin, P., Richard, Y., \& Philippon, N. 2006.
+\newblock Compared regimes of NDVI and rainfall in semi-arid regions of Africa.
+\newblock {\em International Journal of Remote Sensing}, {\bf 27}(23),
+  5201--5223.
+
+\bibitem[\protect\citename{Matheron, }1965]{Matheron_65}
+Matheron, G. 1965.
+\newblock {\em Les Variables R\'egionalis \'ees et leur Estimation}.
+\newblock Masson et Cie.
+
+\bibitem[\protect\citename{New {\em et~al.\ }\relax, }2002]{New-et-al_2002}
+New, M., Lister, D., Hulme, M., \& Makin, I. 2002.
+\newblock A high-resolution data set of surface climate over global land areas.
+\newblock {\em Climate research}, {\bf 21}(1).
+
+\bibitem[\protect\citename{Nicholson {\em et~al.\ }\relax,
+  }1996]{Nicholson-et-al_1996}
+Nicholson, S.~E., R., Lare~A., A., Marengo~J., \& P., Santos. 1996.
+\newblock A revised version of Lettau's evapoclimatonomy model.
+\newblock {\em Journal of Applied Meteorology}, {\bf 35}(4), 549--561.
+
+\bibitem[\protect\citename{Perica \& Foufoula-Georgiou,
+  }1996]{Perica-Foufoula-Georgiou_96}
+Perica, S., \& Foufoula-Georgiou, E. 1996.
+\newblock Model for multiscale disaggregation of spatial rainfall based on
+  coupling meteorological and scaling descriptions.
+\newblock {\em J. Geophys. Res.}, {\bf 101}(D21), 26347--26361.
+
+\bibitem[\protect\citename{Posadas {\em et~al.\ }\relax,
+  }2015]{Posadas-et-al_2015}
+Posadas, A., Duffaut~Espinosa, L.~A., Yarlequ\'e, C., Heidinger, H., Carvalho,
+  L., Jones, C., \& Quiroz, R. 2015.
+\newblock Spatial Random Downscaling of Rainfall Signals in Andean
+  Heterogeneous Terrain.
+\newblock {\em Nonlinear Processes in Geophysics}, {\bf 22}(4), 383--402.
+
+\bibitem[\protect\citename{Price {\em et~al.\ }\relax, }2000]{Price-et-al_2000}
+Price, D.T., McKenney, D.W., Nalder, I.~A., Hutchinson, M.F., \& Kesteven, J.L.
+  2000.
+\newblock A comparison of two statistical methods for spatial interpolation of
+  Canadian monthly mean climate data.
+\newblock {\em Agricultural and Forest Meteorology}, {\bf 101}(2--3), 81--94.
+
+\bibitem[\protect\citename{Quiroz {\em et~al.\ }\relax,
+  }2011]{Quiroz-et-al_2011}
+Quiroz, R., Yarlequ\'e, C., Posadas, A., Mares, V., \& Immerzeel, W.~W. 2011.
+\newblock Improving daily rainfall estimation from NDVI using wavelet
+  transform.
+\newblock {\em Environmental Modeling \& Software}, {\bf 26}(2), 201--209.
+
+\bibitem[\protect\citename{SENAMHI, }2017]{Senamhi}
+SENAMHI. 2017.
+\newblock {\em Servicio nacional de meteorolog\'ia e hidrolog\'ia del Per\'u}.
+
+\bibitem[\protect\citename{Simpson {\em et~al.\ }\relax,
+  }1996]{Simpson-et-al_96}
+Simpson, J., Kummerow, C., Tao, W.~K., \& Adler, R.~F. 1996.
+\newblock On the tropical rainfall measuring mission (TRMM).
+\newblock {\em Meteorology and Atmospheric Physics}, {\bf 60}, 19--36.
+
+\bibitem[\protect\citename{{The ANUSPLIN package}, }2007]{ANUSP_07}
+{The ANUSPLIN package}. 2007.
+\newblock {\em Fenner School of Environment and Society, Australian National
+  University}.
+
+\bibitem[\protect\citename{Tucker, }1979]{Tucker_79}
+Tucker, C.~J. 1979.
+\newblock Red and photographic infrared linear combination for monitoring
+  vegetation.
+\newblock {\em Remote Sensing of Environment}, {\bf 8}, 127--150.
+
+\bibitem[\protect\citename{UEA-CRU, }2017]{UEACRU}
+UEA-CRU. 2017.
+\newblock {\em University of east Anglia - climatic research unit}.
+
+\bibitem[\protect\citename{Vera {\em et~al.\ }\relax, }2006]{Vera-et-al_2006}
+Vera, C., Baez, J., Douglas, M., Emmanuel, B.~C., Marengo, J., Meitin, J.,
+  Nicolini, M., Nogues-Paegle, J., Penalba, O., Salio, P., Saulo, C.,
+  Silvia~Dias, P., \& Zipser, E. 2006.
+\newblock The south American low-level jet experiment.
+\newblock {\em Bull. Amer. Met. Soc.}, {\bf 87}(1), 63--77.
+
+\bibitem[\protect\citename{Voronoi, }1908]{Voronoi_1908}
+Voronoi, G. 1908.
+\newblock Recherches sur les parall\'elo\`edres Primitives.
+\newblock {\em J. reine angew. Math.}, {\bf 134}, 1908.
+
+\bibitem[\protect\citename{WorldClim, }2017]{worldclim}
+WorldClim. 2017.
+\newblock {\em Global Climate Data Free climate data for ecological modeling
+  and GIS}.
+
+\bibitem[\protect\citename{Yarlequ\'e {\em et~al.\ }\relax,
+  }2016]{Yarleque-et-al_2016}
+Yarlequ\'e, C., Vuille, M., Hardy, D.~R., Posadas, A., \& Quiroz, R. 2016.
+\newblock Multiscale assessment of spatial precipitation variability over
+  complex mountain terrain using a high-resolution spatiotemporal wavelet
+  reconstruction method.
+\newblock {\em Journal of Geophysical Research: Atmospheres}, {\bf 121}(20),
+  12,198--12,216.
+
+\end{thebibliography}
